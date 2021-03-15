@@ -1,0 +1,13 @@
+C:\Users\sanch\Desktop\Ньютон\taskOneNewtonsMethod\taskOneNewtonsMethod\bin\Debug\netcoreapp3.1\taskOneNewtonsMethod.exe
+C:\Users\sanch\Desktop\Ньютон\taskOneNewtonsMethod\taskOneNewtonsMethod\bin\Debug\netcoreapp3.1\taskOneNewtonsMethod.deps.json
+C:\Users\sanch\Desktop\Ньютон\taskOneNewtonsMethod\taskOneNewtonsMethod\bin\Debug\netcoreapp3.1\taskOneNewtonsMethod.runtimeconfig.json
+C:\Users\sanch\Desktop\Ньютон\taskOneNewtonsMethod\taskOneNewtonsMethod\bin\Debug\netcoreapp3.1\taskOneNewtonsMethod.runtimeconfig.dev.json
+C:\Users\sanch\Desktop\Ньютон\taskOneNewtonsMethod\taskOneNewtonsMethod\bin\Debug\netcoreapp3.1\taskOneNewtonsMethod.dll
+C:\Users\sanch\Desktop\Ньютон\taskOneNewtonsMethod\taskOneNewtonsMethod\bin\Debug\netcoreapp3.1\taskOneNewtonsMethod.pdb
+C:\Users\sanch\Desktop\Ньютон\taskOneNewtonsMethod\taskOneNewtonsMethod\obj\Debug\netcoreapp3.1\taskOneNewtonsMethod.csprojAssemblyReference.cache
+C:\Users\sanch\Desktop\Ньютон\taskOneNewtonsMethod\taskOneNewtonsMethod\obj\Debug\netcoreapp3.1\taskOneNewtonsMethod.AssemblyInfoInputs.cache
+C:\Users\sanch\Desktop\Ньютон\taskOneNewtonsMethod\taskOneNewtonsMethod\obj\Debug\netcoreapp3.1\taskOneNewtonsMethod.AssemblyInfo.cs
+C:\Users\sanch\Desktop\Ньютон\taskOneNewtonsMethod\taskOneNewtonsMethod\obj\Debug\netcoreapp3.1\taskOneNewtonsMethod.csproj.CoreCompileInputs.cache
+C:\Users\sanch\Desktop\Ньютон\taskOneNewtonsMethod\taskOneNewtonsMethod\obj\Debug\netcoreapp3.1\taskOneNewtonsMethod.dll
+C:\Users\sanch\Desktop\Ньютон\taskOneNewtonsMethod\taskOneNewtonsMethod\obj\Debug\netcoreapp3.1\taskOneNewtonsMethod.pdb
+C:\Users\sanch\Desktop\Ньютон\taskOneNewtonsMethod\taskOneNewtonsMethod\obj\Debug\netcoreapp3.1\taskOneNewtonsMethod.genruntimeconfig.cache

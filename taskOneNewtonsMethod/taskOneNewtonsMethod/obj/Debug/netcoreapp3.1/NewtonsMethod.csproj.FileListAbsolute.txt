@@ -1,0 +1,26 @@
+C:\Users\sanch\Desktop\Ньютон\taskOneNewtonsMethod\taskOneNewtonsMethod\bin\Debug\netcoreapp3.1\NewtonsMethod.exe
+C:\Users\sanch\Desktop\Ньютон\taskOneNewtonsMethod\taskOneNewtonsMethod\bin\Debug\netcoreapp3.1\NewtonsMethod.deps.json
+C:\Users\sanch\Desktop\Ньютон\taskOneNewtonsMethod\taskOneNewtonsMethod\bin\Debug\netcoreapp3.1\NewtonsMethod.runtimeconfig.json
+C:\Users\sanch\Desktop\Ньютон\taskOneNewtonsMethod\taskOneNewtonsMethod\bin\Debug\netcoreapp3.1\NewtonsMethod.runtimeconfig.dev.json
+C:\Users\sanch\Desktop\Ньютон\taskOneNewtonsMethod\taskOneNewtonsMethod\bin\Debug\netcoreapp3.1\NewtonsMethod.dll
+C:\Users\sanch\Desktop\Ньютон\taskOneNewtonsMethod\taskOneNewtonsMethod\bin\Debug\netcoreapp3.1\NewtonsMethod.pdb
+C:\Users\sanch\Desktop\Ньютон\taskOneNewtonsMethod\taskOneNewtonsMethod\obj\Debug\netcoreapp3.1\NewtonsMethod.csprojAssemblyReference.cache
+C:\Users\sanch\Desktop\Ньютон\taskOneNewtonsMethod\taskOneNewtonsMethod\obj\Debug\netcoreapp3.1\NewtonsMethod.AssemblyInfoInputs.cache
+C:\Users\sanch\Desktop\Ньютон\taskOneNewtonsMethod\taskOneNewtonsMethod\obj\Debug\netcoreapp3.1\NewtonsMethod.AssemblyInfo.cs
+C:\Users\sanch\Desktop\Ньютон\taskOneNewtonsMethod\taskOneNewtonsMethod\obj\Debug\netcoreapp3.1\NewtonsMethod.csproj.CoreCompileInputs.cache
+C:\Users\sanch\Desktop\Ньютон\taskOneNewtonsMethod\taskOneNewtonsMethod\obj\Debug\netcoreapp3.1\NewtonsMethod.dll
+C:\Users\sanch\Desktop\Ньютон\taskOneNewtonsMethod\taskOneNewtonsMethod\obj\Debug\netcoreapp3.1\NewtonsMethod.pdb
+C:\Users\sanch\Desktop\Ньютон\taskOneNewtonsMethod\taskOneNewtonsMethod\obj\Debug\netcoreapp3.1\NewtonsMethod.genruntimeconfig.cache
+C:\Users\sanch\Desktop\Лабы с замечаниями\Ньютон\taskOneNewtonsMethod\taskOneNewtonsMethod\bin\Debug\netcoreapp3.1\NewtonsMethod.exe
+C:\Users\sanch\Desktop\Лабы с замечаниями\Ньютон\taskOneNewtonsMethod\taskOneNewtonsMethod\bin\Debug\netcoreapp3.1\NewtonsMethod.deps.json
+C:\Users\sanch\Desktop\Лабы с замечаниями\Ньютон\taskOneNewtonsMethod\taskOneNewtonsMethod\bin\Debug\netcoreapp3.1\NewtonsMethod.runtimeconfig.json
+C:\Users\sanch\Desktop\Лабы с замечаниями\Ньютон\taskOneNewtonsMethod\taskOneNewtonsMethod\bin\Debug\netcoreapp3.1\NewtonsMethod.runtimeconfig.dev.json
+C:\Users\sanch\Desktop\Лабы с замечаниями\Ньютон\taskOneNewtonsMethod\taskOneNewtonsMethod\bin\Debug\netcoreapp3.1\NewtonsMethod.dll
+C:\Users\sanch\Desktop\Лабы с замечаниями\Ньютон\taskOneNewtonsMethod\taskOneNewtonsMethod\bin\Debug\netcoreapp3.1\NewtonsMethod.pdb
+C:\Users\sanch\Desktop\Лабы с замечаниями\Ньютон\taskOneNewtonsMethod\taskOneNewtonsMethod\obj\Debug\netcoreapp3.1\NewtonsMethod.csprojAssemblyReference.cache
+C:\Users\sanch\Desktop\Лабы с замечаниями\Ньютон\taskOneNewtonsMethod\taskOneNewtonsMethod\obj\Debug\netcoreapp3.1\NewtonsMethod.AssemblyInfoInputs.cache
+C:\Users\sanch\Desktop\Лабы с замечаниями\Ньютон\taskOneNewtonsMethod\taskOneNewtonsMethod\obj\Debug\netcoreapp3.1\NewtonsMethod.AssemblyInfo.cs
+C:\Users\sanch\Desktop\Лабы с замечаниями\Ньютон\taskOneNewtonsMethod\taskOneNewtonsMethod\obj\Debug\netcoreapp3.1\NewtonsMethod.csproj.CoreCompileInputs.cache
+C:\Users\sanch\Desktop\Лабы с замечаниями\Ньютон\taskOneNewtonsMethod\taskOneNewtonsMethod\obj\Debug\netcoreapp3.1\NewtonsMethod.dll
+C:\Users\sanch\Desktop\Лабы с замечаниями\Ньютон\taskOneNewtonsMethod\taskOneNewtonsMethod\obj\Debug\netcoreapp3.1\NewtonsMethod.pdb
+C:\Users\sanch\Desktop\Лабы с замечаниями\Ньютон\taskOneNewtonsMethod\taskOneNewtonsMethod\obj\Debug\netcoreapp3.1\NewtonsMethod.genruntimeconfig.cache
